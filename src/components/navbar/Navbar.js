@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 import './Navbar.css'
 import {FiMenu} from 'react-icons/fi'
-//import logo from '../../assets/logo.svg'
 import { RiCloseLine } from 'react-icons/ri';
 
 // BEM - BLOCK ELEMENT MODIFIER

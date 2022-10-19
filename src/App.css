@@ -5,6 +5,10 @@
    scroll-behavior: smooth;
 }
 
+.page1 {
+   margin: 5rem;
+}
+
 body {
    background: var(--color-bg);
 }
